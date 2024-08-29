@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey! I’m Helena Utzig :)
 
-<!--
-**hlntzg/hlntzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# or Hey! I’m Helena Utzig :)
 
-Here are some ideas to get you started:
+I'm passionate about  continuous  learning and moved from Brazil to Finland to explore the tech world. With a background in architecture and project management, I bring a strong eye for aesthetics and a solid grasp of the bigger picture in the projects I’ve worked. Current, I’m studying programming and problem-solving at [Hive Helsinki](https://www.hive.fi/en/), where the emphasis is on collaborative, project-based learning through a peer-to-peer approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+
+- I’m currently learning coding in C, marking the beginning of my programming journey
+- You can ask me about …
+
+## Connect with me:
+
+I’m super available and looking for connect with people with coding interests. Here is how you can easily reach me:
+
+[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)
+
+[https://skillicons.dev/icons?i=gmail&theme=light](https://skillicons.dev/icons?i=gmail&theme=light)
+
+## Technologies & Tools:
+
+- C programming
+- Github
+- Vim
+
+## Notable projects:
+
+Here you can find more about some of the notable projects I've worked on:
