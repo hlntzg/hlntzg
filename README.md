@@ -16,6 +16,6 @@ I’m super available and looking for connect with people with coding interests.
 [<img height="28" width="28" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/hlntzg)
 
 ### Technologies & Tools:
-<img height="28" width="28" src="https://cdn.simpleicons.org/c/black/white" />
-<img height="28" width="28" src="https://cdn.simpleicons.org/github/black/white" />
-<img height="28" width="28" src="https://cdn.simpleicons.org/vim/black/white" />
+[<img height="28" width="28" src="https://cdn.simpleicons.org/c/black/white" />]() 
+[<img height="28" width="28" src="https://cdn.simpleicons.org/github/black/white" />]()
+[<img height="28" width="28" src="https://cdn.simpleicons.org/vim/black/white" />]()
