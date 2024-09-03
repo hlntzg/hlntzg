@@ -11,11 +11,9 @@ I'm Helena and I'm passionate about continuous learning. I moved from Brazil to 
 
 I’m super available and looking for connect with people with coding interests. Here is how you can easily reach me:
 
-[![My LinkedIn Profile](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/helenautzig/)  [![My e-mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:helenautzig@gmail.com) [![My Discord Profile](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/helenautzig/) 
-
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/helenautzig/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/black/white" />](helenautzig@gmail.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange/white" />](https://www.linkedin.com/in/helenautzig/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/orange/white" />](mailto:helenautzig@gmail.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/orange/white" />](https://t.me/hlntzg)
 
 ## Technologies & Tools:
 
