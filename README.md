@@ -14,25 +14,10 @@ I’m super available and looking for connect with people with coding interests.
 [![My LinkedIn Profile](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/helenautzig/)  [![My e-mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:helenautzig@gmail.com) [![My Discord Profile](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/helenautzig/) 
 
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/helenautzig/)
-
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/darkorange" />](https://www.linkedin.com/in/helenautzig/)
 
 ## Technologies & Tools:
 
 - C programming
 - Github
 - Vim
-
-## Notable projects:
-
-Here you can find more about some of the notable projects I've worked on:
