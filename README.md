@@ -13,6 +13,8 @@ I’m super available and looking for connect with people with coding interests.
 
 [![My LinkedIn Profile](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/helenautzig/)  [![My e-mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:helenautzig@gmail.com) [![My Discord Profile](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/helenautzig/) 
 
+[![My LinkedIn Profile](https://cdn.simpleicons.org/linkedin?viewbox=auto)](https://www.linkedin.com/in/helenautzig/)
+
 ## Technologies & Tools:
 
 - C programming
