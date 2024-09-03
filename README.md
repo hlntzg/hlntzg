@@ -7,7 +7,7 @@ I'm Helena and I'm passionate about continuous learning. I moved from Brazil to 
 - I’m currently learning coding in C, marking the beginning of my programming journey
 - You can ask me about …
 
-## Connect with me:
+### Connect with me:
 
 I’m super available and looking for connect with people with coding interests. Here is how you can easily reach me:
 
@@ -15,8 +15,7 @@ I’m super available and looking for connect with people with coding interests.
 [<img height="28" width="28" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:helenautzig@gmail.com)
 [<img height="28" width="28" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/hlntzg)
 
-## Technologies & Tools:
-
-- C programming
-- Github
-- Vim
+### Technologies & Tools:
+<img height="28" width="28" src="https://cdn.simpleicons.org/c/black/white" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/github/black/white" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/vim/black/white" />
