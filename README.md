@@ -1,15 +1,43 @@
-## Hey, there!
+<br>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/helenautzig/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" style="position: relative;" alt="LinkedIn" />
+  </picture>
+</a>
+&nbsp;<sup> • </sup>&nbsp;
 
-I'm Helena and I'm passionate about continuous learning. I moved from Brazil to Finland to explore the tech world. With a background in architecture and project management, I bring a strong eye for aesthetics and a solid grasp of the bigger picture in the projects I’ve worked. I’m studying programming and problem-solving at [Hive Helsinki](https://www.hive.fi/en/), where the emphasis is on collaborative, project-based learning through a peer-to-peer approach. I’m currently learning coding in C, marking the beginning of my programming journey.
+<!-- Telegram -->
+<a href="https://t.me/hlntzg" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/26A5E4" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="24" alt="Telegram" />
+  </picture>
+</a>
+&nbsp;<sup> • </sup>&nbsp;
 
-### Let's connect!
-I’m super available and looking to connect with people with coding interests.
+<!-- Email -->
+<a href="mailto:helenautzig@gmail.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email" />
+  </picture>
+</a>
 
-[<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" />](https://www.linkedin.com/in/helenautzig/)
-[<img height="28" width="28" src="https://cdn.simpleicons.org/gmail/black/white" alt="Email" />](mailto:helenautzig@gmail.com)
-[<img height="28" width="28" src="https://cdn.simpleicons.org/telegram/black/white" alt="Telegram" />](https://t.me/hlntzg)
+<br><br>
 
-### Tools & technologies I've experienced:
-[<img height="28" width="28" src="https://cdn.simpleicons.org/c/black/white" alt="C Programming" />]() 
-[<img height="28" width="28" src="https://cdn.simpleicons.org/github/black/white" alt="GitHub" />]() 
-[<img height="28" width="28" src="https://cdn.simpleicons.org/vim/black/white" alt="Vim" />]()
+### Helena Utzig, software developer with a passion for design
+
+I transitioned from architecture and project management to the tech world, beginning my coding journey with C and C++ to build a solid foundation in low-level and object-oriented programming. Currently, my focus is on web development.
+
+I’m studying programming and problem-solving at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach.
+
+<hr>
+ 
+**Languages** &nbsp;&nbsp;`C` • `C++` • `Python`
+
+**Tools** &nbsp;&nbsp;`Git` • `Vim` • `Visual Studio Code`
