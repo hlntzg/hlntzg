@@ -41,3 +41,8 @@ I’m studying programming and problem-solving at [Hive Helsinki](https://www.hi
 **Languages** &nbsp;&nbsp;`C` • `C++` • `Python`
 
 **Tools** &nbsp;&nbsp;`Git` • `Vim` • `Visual Studio Code`
+
+<br><br>
+
+
+❤️
