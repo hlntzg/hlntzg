@@ -32,7 +32,7 @@
 <br>
 <img src="https://github.com/user-attachments/assets/d94db2b6-2b5b-4acc-93bc-89be8ca863fb" alt="TAG" width="400" />
 
-I transitioned from architecture and project management into the tech world, starting my coding journey with C and C++ to build a strong foundation in low-level and object-oriented programming. With a passion for design, I bring a creative approach to problem-solving.
+I transitioned from architecture and project management into the tech world, starting my coding journey building a strong foundation in low-level and object-oriented programming. With a passion for design, I bring a creative approach to problem-solving.
 
 Current, I’m studying programming at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach. My current focus is on web development.
 
