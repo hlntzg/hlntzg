@@ -30,19 +30,19 @@
 
 <br><br>
 
-### Helena Utzig, software developer with a passion for design
+<img src="https://github.com/user-attachments/assets/d94db2b6-2b5b-4acc-93bc-89be8ca863fb" alt="TAG" width="400" />
 
-I transitioned from architecture and project management to the tech world, beginning my coding journey with C and C++ to build a solid foundation in low-level and object-oriented programming. Currently, my focus is on web development.
+I transitioned from architecture and project management to the tech world, beginning my coding journey with C and C++ to build a solid foundation in low-level and object-oriented programming. I like good design.
 
-I’m studying programming and problem-solving at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach.
+I’m studying programming and problem-solving at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach. Currently, my focus is on web development. 
 
 <hr>
  
-**Languages** &nbsp;&nbsp;`C` • `C++` • `Python`
+**Languages** &nbsp;&nbsp;`C` • `C++` • `Python` •
 
-**Tools** &nbsp;&nbsp;`Git` • `Vim` • `Visual Studio Code`
-
+**Tools** &nbsp;&nbsp;`Git` • `Vim` • `Visual Studio Code` • 
+<hr>
 <br><br>
 
 
-❤️
+<img src="https://github.com/user-attachments/assets/eb73aeed-421c-499a-83da-42a16f68a3ed" alt="LOVE" width="40" />
