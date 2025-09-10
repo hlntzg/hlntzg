@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" style="position: relative;" alt="LinkedIn" />
   </picture>
 </a>
-&nbsp;<sup> • </sup>&nbsp;
+<sup>• </sup>
 
 <!-- Telegram -->
 <a href="https://t.me/hlntzg" target="_blank" rel="noreferrer">
@@ -17,7 +17,7 @@
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="24" alt="Telegram" />
   </picture>
 </a>
-&nbsp;<sup> • </sup>&nbsp;
+<sup>• </sup>
 
 <!-- Email -->
 <a href="mailto:helenautzig@gmail.com" target="_blank" rel="noreferrer">
@@ -29,21 +29,25 @@
 </a>
 
 <br><br>
+
+<img width="600" height="55" alt="HU-intro" src="https://github.com/user-attachments/assets/5d9c18f3-ed72-40d5-a971-ab8101dbd90d" />
+
 <br>
-<img src="https://github.com/user-attachments/assets/d94db2b6-2b5b-4acc-93bc-89be8ca863fb" alt="TAG" width="400" />
+<br>
 
-I transitioned from architecture and project management into the tech world, starting my coding journey building a strong foundation in low-level and object-oriented programming. With a passion for design, I bring a creative approach to problem-solving.
+I transitioned from architecture and project management into the tech world. My coding journey started building a strong foundation in low-level and object-oriented programming at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach. With a passion for design, I bring a creative approach to problem-solving.
 
-Current, I’m studying programming at [Hive Helsinki](https://www.hive.fi/en/), where learning is driven by collaborative, project-based work and a peer-to-peer approach. My current focus is on web development.
+Current, I’m diving into web development and seeking an entry-level position as Frontend Developer.
+
 
 <hr>
  
-**Languages** &nbsp;`C` • `C++` • `Shell`• `Python`
+**Languages** `TypeScript` • `C` • `C++` • `Shell` • `Python`
 
-**Tools & technologies** &nbsp;`Git` • `Vim` • `Visual Studio Code` • `Docker`
+**Technologies** `Git` • `GitHub` • `Docker` • `React`
+
+**Tools** `Vim` • `Visual Studio Code` • `Figma`
 
 <hr>
 
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/eb73aeed-421c-499a-83da-42a16f68a3ed" alt="LOVE" width="40" />
+<br><br><img width="32" alt="HU-love" src="https://github.com/user-attachments/assets/ce934b6a-7d43-493d-8cae-1223e6a797df" />
