@@ -50,4 +50,4 @@ Current, I’m diving into web development and seeking an entry-level position a
 
 <hr>
 
-<br><br><img width="32" alt="HU-love" src="https://github.com/user-attachments/assets/ce934b6a-7d43-493d-8cae-1223e6a797df" />
+<br><img width="32" alt="HU-love" src="https://github.com/user-attachments/assets/ce934b6a-7d43-493d-8cae-1223e6a797df" />
